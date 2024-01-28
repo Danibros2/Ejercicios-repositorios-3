@@ -23,7 +23,7 @@ EJERCICIO 3
 EJERCICIO4
 1 git checkout master
 2 git log --graph --all --oneline
-3 git branch -d bibliografia
+3 git branch -D bibliografia
 4 git log --graph --all --oneline
 
 
